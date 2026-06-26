@@ -6,12 +6,11 @@
 
 ---
 
+**1.扫雷**
 
-# **1.扫雷（首推游戏）**
+[点击即玩](https://has-sudo.github.io/mineswepper)
 
-[点击即玩](https://has-sudo.github.io)
-
-[Github开源地址](https://github.com/has-sudo/has-sudo.github.io)
+[Github开源地址](https://github.com/has-sudo/mineswepper)
 
 ---
 **2.sprunki（转载）**
