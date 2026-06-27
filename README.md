@@ -6,18 +6,25 @@
 
 ---
 
-**1.扫雷**
+**1. 扫雷**
 
 [点击即玩](https://has-sudo.github.io/mineswepper)
 
 [Github开源地址](https://github.com/has-sudo/mineswepper)
 
 ---
-**2.sprunki（转载）**
+**2. sprunki（转载）**
 
 [点击即玩](https://has-sudo.github.io/sprunki)
 
 [Github原版获取](https://github.com/has-sudo/sprunki)
+
+---
+**3. minecraft（转载）**
+
+[点击即玩](https://has-sudo.github.io/minecraft)
+
+[Github原版获取](https://github.com/has-sudo/minecraft)
 
 ---
 
